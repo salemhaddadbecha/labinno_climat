@@ -7,6 +7,7 @@ L'objectif principal de ce projet est de créer une application web qui utilise 
 #### Le projet se compose des éléments suivants :
 
 Fichiers Python :
+
 main.py : Contient le code Flask pour exécuter l'application localement.
 
 data_processing.py : Contient les fonctions pour préparer et traiter les données.
